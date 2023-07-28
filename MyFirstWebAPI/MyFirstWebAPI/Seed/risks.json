@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Id": "e5748513-794a-4511-8653-f14a73af6c4d",
+    "DateCreated": "1/1/2018",
+    "DateModified": "1/1/2018",
+    "CreatedBy": "00000000-0000-0000-0000-000000000000",
+    "ModifiedBy": "00000000-0000-0000-0000-000000000000",
+    "IsActive": true,
+    "PolicyNumber": "e5748513"
+  },
+  {
+    "Id": "d33cda09-37f0-435a-8614-01a5f5eef558",
+    "DateCreated": "1/1/2018",
+    "DateModified": "1/1/2018",
+    "CreatedBy": "00000000-0000-0000-0000-000000000000",
+    "ModifiedBy": "00000000-0000-0000-0000-000000000000",
+    "IsActive": true,
+    "PolicyNumber": "d33cda09"
+  }
+]

@@ -1,0 +1,6 @@
+﻿1. Install Microsoft.EntityFrameworkCore.Design in WebAPI Project
+2. Navigate to tools > NuGet Package Manager > Click Package Manager Console
+3. Point the default project in package manager console Ex. Domain project
+4. type add-migration “any name here” -context dbcontextname
+5. type update-database -context dbcontextname -verbose
+6. Result: successfully created database with tables 

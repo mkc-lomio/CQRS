@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "0d64aaf2-e8ee-43a0-9ae3-a803fe771fd9",
+    "DateCreated": "1/1/2018",
+    "DateModified": "1/1/2018",
+    "CreatedBy": "00000000-0000-0000-0000-000000000000",
+    "ModifiedBy": "00000000-0000-0000-0000-000000000000",
+    "IsActive": true,
+    "Name": "Philippines",
+    "Code": "PHI"
+  },
+  {
+    "Id": "e41fd80b-e220-4061-aaba-6c5248ddd994",
+    "DateCreated": "1/1/2018",
+    "DateModified": "1/1/2018",
+    "CreatedBy": "00000000-0000-0000-0000-000000000000",
+    "ModifiedBy": "00000000-0000-0000-0000-000000000000",
+    "IsActive": true,
+    "Name": "United States of America",
+    "Code": "USA"
+  }
+]
