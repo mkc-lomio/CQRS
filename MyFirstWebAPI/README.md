@@ -1,6 +1,6 @@
 
 
-What is the project .net version? .NET 5
+What is the project .net version? .NET 6
 
 TABLE OF CONTENTS
 1. CQRS
